@@ -1,0 +1,10 @@
+.tipo1 {
+    font-size: 10px;
+    font-weight: bold;
+    color: chartreuse;
+}
+#resaltar1 {
+    /* colores */
+    background-color: yellow;
+   /* color: red; */
+}
